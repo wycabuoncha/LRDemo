@@ -5,6 +5,8 @@
 //"                       
 //"'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
+// CHANGES MADE ...
+
 function Action()
 {
 	web.setSocketsOption('SSL_VERSION', 'TLS1.2');
